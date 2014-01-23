@@ -1,6 +1,6 @@
 # Optimized Protein Structures
 
-A repo for optimized proteins, so they don\'t get lost. Everyone is invited to clone and submit their own structures via pull requests.
+A repo for optimized proteins, so they don't get lost. Everyone is invited to clone and submit their own structures via pull requests.
 
 Please state the following when you submit: 
 
