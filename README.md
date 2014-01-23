@@ -1,4 +1,7 @@
-optimized-protein-structures
-============================
 
-Collection of optimized protein structures
+# Optimized Protein Structures
+
+A repo for optimized proteins, so they don\'t get lost.
+
+
+
