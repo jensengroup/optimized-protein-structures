@@ -11,5 +11,7 @@ Please state the following when you submit:
 - Energy and gradient of final structure (if possible).
 - Citation link (or name of authors if not published).
 
+We encourage that structures are uploaded in both PDB format and XYZ format. If possible, do include any log files or input files used by the program which produced the structure.
+
 # License
 All structures are freely available under the terms of the CC-BY license. Attribution should be given to the author of the structure (and not this page).
